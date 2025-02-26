@@ -92,6 +92,4 @@
 
 ---
 
-![Profile Views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/softenrj/visits)
-
 
