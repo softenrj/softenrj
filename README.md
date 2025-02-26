@@ -21,11 +21,11 @@
 
 
 #### **Backend Development**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
-![Motoko](https://img.shields.io/badge/-Motoko-FF5E00?logo=internet-computer&logoColor=white&style=flat)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Motoko](https://img.shields.io/badge/-Motoko-FF5E00?logo=internet-computer&logoColor=white&style=flat)
 
 
 #### **Databases**
@@ -92,5 +92,6 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=softenrj&label=Profile%20Views&color=6&icon=5&pretty=true)
+![Profile Views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/softenrj/visits)
+
 
