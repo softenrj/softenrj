@@ -8,17 +8,25 @@
 
 ### 🚀 Tech Stack
 
-#### **Frontend Development**
+#### **Frontend Development**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white&style=flat)
+![EJS](https://img.shields.io/badge/-EJS-000000?logo=ejs&logoColor=white&style=flat)
 
-#### **Backend Development**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+
+#### **Backend Development**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
+![Motoko](https://img.shields.io/badge/-Motoko-FF5E00?logo=internet-computer&logoColor=white&style=flat)  
+
 
 #### **Databases**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
@@ -84,7 +92,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=softenrj&label=Profile%20Views&color=6&icon=5&pretty=true" />
-  <p>⭐ Feel free to fork and customize this template!</p>
-</div>
+![Profile Views](https://visitcount.itsvg.in/api?id=softenrj&label=Profile%20Views&color=6&icon=5&pretty=true)
+
