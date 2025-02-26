@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Sharma" alt="Typing SVG" />
+   <h3>🚀 Full-Stack Developer | 💻 Passionate Programmer | 🎓 Lifelong Learner</h3>
 
 </div>
 
@@ -52,9 +53,6 @@
   </a>
   <a href="https://www.instagram.com/raj_s.e">
     <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="50" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100093479301790&mibextid=ZbWKwL">
-    <img src="https://img.icons8.com/3d-fluency/94/facebook.png" width="50" alt="Facebook"/>
   </a>
 </p>
 
