@@ -88,14 +88,6 @@
 
 ---
 
-### 📊 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softenrj&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-___
-
 ### 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=softenrj&theme=onedark&row=1&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
