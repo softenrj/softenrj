@@ -1,39 +1,16 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Sharma" alt="Typing SVG" />
+   <h3>🚀 Full-Stack Developer | 💻 Passionate Programmer | 🎓 Lifelong Learner</h3>
 
-  <!-- Typing Intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Raj+Sharma" alt="Typing SVG" />
+</div>
+<!-- GitHub Stats Badges -->
+  <div align="center">
+    <img src="https://img.shields.io/github/followers/softenrj?label=Followers&logo=github&style=flat" />
+<img src="https://img.shields.io/github/stars/softenrj?label=Stars&logo=github&style=flat" />
 
-  <!-- Static Tagline -->
-  <h3>
-    ⚡ Aspiring Software Engineer &nbsp; | &nbsp; Full Stack & Backend Developer &nbsp; | &nbsp; System Design Enthusiast
-  </h3>
-
-  <!-- GitHub Stats Badges -->
-  <div>
-    <a href="https://github.com/softenrj?tab=followers">
-      <img src="https://img.shields.io/github/followers/softenrj?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"/>
-    </a>
-    <a href="https://github.com/softenrj?tab=repositories">
-      <img src="https://img.shields.io/github/stars/softenrj?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars"/>
-    </a>
   </div>
 
-</div>
-
 ---
-
-<div align="center">
-
-## 👨‍💻 About Me  
-
-💡 Hi, I'm **Raj Sharma** – a passionate learner and aspiring **Software Engineer**.  
-🚀 I love building **scalable web systems** and exploring **Backend & Full-Stack Development**.  
-🌱 Currently diving deeper into **System Design**, **App Development**, and **DevOps**.  
-📚 Enthusiast of **DSA** and solving complex problems with clean solutions.  
-🛠️ Tech stack I work with: **React**, **Next.js**, **Node.js**, **Redux**, and modern DevOps tools.  
-🤝 Always open to **collaborating on impactful projects** that make a difference.  
-
-</div>
 
 ### 🚀 Tech Stack
 
@@ -83,7 +60,6 @@
 
 
 ---
-
 ### 📫 Let's Connect
 
 <p align="center">
