@@ -32,7 +32,6 @@
 #### **Backend Development**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Motoko](https://img.shields.io/badge/-Motoko-FF5E00?logo=internet-computer&logoColor=white&style=flat)
