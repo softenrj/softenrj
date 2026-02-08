@@ -106,9 +106,9 @@
 ---
 
 ### 🏆 Achievements
-
+<div align="center">
 [![trophy](https://github-trophies.vercel.app/?username=softenrj)](https://github.com/softenrj/)
-
+</div>
 ---
 
 
