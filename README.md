@@ -107,7 +107,7 @@
 
 ### 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=softenrj&theme=onedark&row=1&margin-w=15&no-bg=true)](https://github.com/softenrj/)
+[![trophy](https://github-trophies.vercel.app/?username=softenrj)](https://github.com/softenrj/)
 
 ---
 
